@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>테이블 실습</title>
+    <style>
+    td {
+     border: 1px solid black ;
+     width: 100px;
+    height: 100px;    }    
+    </style>
+</head>
+<body>
+    <h1> 테이블 예제 </h1>    
+    <table>
+       
+            </tr>
+            <tr>
+                <td colspan="5">1</td>
+            </tr>
+            <tr>
+                <td rowspan="4">1</td> <td colspan="4">2</td> 
+            </tr>
+            <tr>
+                <td>1</td> <td rowspan="2">2</td> <td>3</td> <td rowspan="3">4</td> 
+            </tr>
+            <tr>
+                <td>1</td> <td>2</td> 
+            </tr>
+            <tr>
+                <td colspan="2">1</td> <td>2</td>
+            </tr>
+
+        </body>
+</html>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>예제</title>
+    <style>
+td {}
+
+}
+    </style>
+</head>
+<body>
+    <tr>
+        <td>1</td> <td>2</td> <td>3</td> <td>4</td> <td>5</td>
+    </tr>
+    <tr>
+        <td>1</td> <td>2</td> <td>3</td> <td>4</td> <td>5</td>
+    </tr>
+    <tr>
+        <td>1</td> <td>2</td> <td>3</td> <td>4</td> <td>5</td>
+    </tr>
+    <tr>
+        <td>1</td> <td>2</td> <td>3</td> <td>4</td> <td>5</td>
+    </tr> 
+    <tr>
+        <td>1</td> <td>2</td> <td>3</td> <td>4</td> <td>5</td>
+    </tr>  
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1>오징어게임</h1>
+<img width="400" src="https://w.namu.la/s/e9d228e39abe496fd324b812e5fd7f8e2e598c64ff973f6532ee6fc077e75ae111a5d87b3f9dfdd973a29d536543dc946a63be742db6602a6cfe12816492f87a2087be539b94316d1142cceec08645e7b78a7d851d5a176a4f209224a76b4d45943818c7eb967809f1b0ec578ec34cb8">
+<br>
+<strong> 개요 </strong>
+<br>
+<a href="https://namu.wiki/w/%ED%99%A9%EB%8F%99%ED%98%81">황동혁</a> 감독이 만든 넷플릭스 오리지널 한국 드라마.[5] 2021년 9월 17일에 공개되었다. <br>
+456명의 사람들이 456억의 상금이 걸린 미스터리한 데스 게임에 초대되면서 벌어지는 이야기를 그린 서바이벌, 데스 게임 장르의 드라마이며 제목은 골목 놀이인 오징어에서 따 왔다.
+<br>
+<br>
+<strong> 마케팅 </strong>
+<br>
+2021년 9월 5일, <i>zaz</i>이태원역에 눈으로 볼 수 있는 팝업 체험존인 오겜월드를 설치하였다. 드라마의 인기와 함께 사람이 너무 몰리자 코로나19 방역 수칙 위반 우려로 9월 24일 운영을 조기 종료하였다.
+단 456명만이 참여하는 온라인 제작 발표회 겸 시사회를 2021년 9월 15일에 진행하였다.
+<br>
+<br>
+<strong> 예고편 </strong>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b96oSVw75lA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>리스트설치</title>
+    </head>
+<body>
+<h1>순서가 없는 리스트</h1>
+<ul style="list-style-type: square;">
+    <li>사과</li>
+    <li>포도</li>
+    <li>멜론</li>  
+</ul>    
+
+<h1>순서가 있는 리스트</h1>
+<ol>
+    <li>치킨</li>
+    <li>피자</li>    
+    <li>햄버거</li>
+
+<h1>정의리스트</h1>
+</dl>
+<dt>호박</dt>  
+<dd>한해살이 식물</dd>  
+</dl>
+</ol>
+
+<tr>
+    <td>1</td> <td>2</td> <td>3</td> <td>4</td> <td>5</td>
+</tr>
+<tr>
+    <td>1</td> <td>2</td> <td>3</td> <td>4</td> <td>5</td>
+</tr><tr>
+    <td>1</td> <td>2</td> <td>3</td> <td>4</td> <td>5</td>
+</tr><tr>
+    <td>1</td> <td>2</td> <td>3</td> <td>4</td> <td>5</td>
+</tr><tr>
+    <td>1</td> <td>2</td> <td>3</td> <td>4</td> <td>5</td>
+</tr><tr>
+    <td>1</td> <td>2</td> <td>3</td> <td>4</td> <td>5</td>
+</tr>
+</body>
+</html>
